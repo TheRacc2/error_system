@@ -3,7 +3,7 @@
 #include <Shlwapi.h>
 
 // Author: https://github.com/TheRacc2
-// Repository: https://github.com/TheRacc2/error_handler/
+// Repository: https://github.com/TheRacc2/error_system/
 // 
 // Libraries:
 // FMT @ https://fmt.dev
@@ -11,7 +11,7 @@
 // Other Help:
 // **
 // 
-// Report issues here: https://github.com/TheRacc2/error_handler/issues
+// Report issues here: https://github.com/TheRacc2/error_system/issues
 
 #define FMT_HEADER_ONLY // We only need 3 files, use the smaller FMT version.
 #include "fmt/format.h"

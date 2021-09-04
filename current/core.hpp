@@ -3,7 +3,7 @@
 #include <iostream>
 
 // Author: https://github.com/TheRacc2
-// Repository: https://github.com/TheRacc2/error_handler/
+// Repository: https://github.com/TheRacc2/error_system/
 // 
 // Libraries:
 // FMT @ https://fmt.dev
@@ -11,7 +11,7 @@
 // Other Help:
 // **
 // 
-// Report issues here: https://github.com/TheRacc2/error_handler/issues
+// Report issues here: https://github.com/TheRacc2/error_system/issues
 
 #define THROW(type, text) \
 throw type(error_handler::get_error_text(text, __FILE__, __FUNCTION__, __LINE__).c_str());

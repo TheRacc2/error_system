@@ -1,4 +1,4 @@
-# error_handler
+# error_system
 This error handler was designed with C++14 in mind, backwards compatability has not been tested.
 If you find an issue with the code, please report it on the [issues](https://github.com/TheRacc2/error_handler/issues) tab.
 

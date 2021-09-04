@@ -2,7 +2,7 @@ The software is provided AS IS, no warrenty or support is provided.
 You may NOT remove the credit tag at the top of the file, example below:
 
 // Author: https://github.com/TheRacc2
-// Repository: https://github.com/TheRacc2/error_handler/
+// Repository: https://github.com/TheRacc2/error_system/
 // 
 // Libraries:
 // **
@@ -10,6 +10,6 @@ You may NOT remove the credit tag at the top of the file, example below:
 // Other Help:
 // **
 // 
-// Report issues here: https://github.com/TheRacc2/error_handler/issues
+// Report issues here: https://github.com/TheRacc2/error_system/issues
 
 If you release a project that contains this software, you must include this repository in the credits.
