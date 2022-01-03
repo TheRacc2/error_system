@@ -10,16 +10,12 @@
 
 #pragma comment(lib, "Shlwapi.lib") // StrToBytesizeA
 
+// ---- CREDITS ----
 // Author: https://github.com/TheRacc2
 // Repository: https://github.com/TheRacc2/error_system/
 // 
-// Libraries:
-// **
-// 
-// Other Help:
-// **
-// 
 // Report issues here: https://github.com/TheRacc2/error_system/issues
+// ---- END CREDITS ----
 
 #pragma region macros
 
