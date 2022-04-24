@@ -2,7 +2,7 @@
 This error handler was designed with C++14 in mind, backwards compatability has not been tested.
 If you find an issue with the code, please report it on the [issues](https://github.com/TheRacc2/error_handler/issues) tab.
 
-Newest version can be found [here](https://github.com/TheRacc2/error_handler/tree/main/7-17-2021).
+Newest version can be found [here](https://github.com/TheRacc2/error_handler/tree/main/current).
 
 Please read [LICENSE.txt](https://github.com/TheRacc2/error_handler/blob/main/LICENSE.txt) for information on what you can and can't do with this software.
 
